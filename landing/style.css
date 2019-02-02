@@ -1,0 +1,47 @@
+body{
+	background: rgb(240,240,240);
+	color: rgb(20,20,20);
+	font: 25px;
+	font-family: 'Open Sans', sans-serif;
+}
+h1{font-family: 'Montserrat', sans-serif;
+font-size: 50px;
+color: #630E00;}
+h2{font-family: 'Montserrat', sans-serif;
+font-size: 25px;
+color: #630E00;}
+a{text-decoration: none;
+color: rgb(255,255,255);}
+a:hover{text-decoration: none;
+color: grey;}
+
+#banner {background-image: url("https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80");
+background-size: cover;
+padding: 150px 0px;
+text-align: center;
+margin: 0px;
+}
+#banner h1{color: white;
+text-shadow: 0.3px 0.3px 0.3px grey
+font-weight: boldest;
+font-size: 70px;}
+#banner p{color: white;
+font-weight: lighter;}
+.section{text-align: center;
+padding:15px 0px;
+margin:10px;}
+.section h2{color: #55505C);
+font-size:20px;}
+#footer{
+color: white;
+background-color: rgb(20,20,20);
+padding: 5px 10px;
+margin: none;}
+#footer a {
+  color: lightgrey;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: white;
+}
+#avatar {border-radius: 50%}
